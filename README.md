@@ -1,4 +1,4 @@
-# K-Nearest Neighbors (KNN) Implementation
+# Pattern Recognition Implementations
 
 This repository contains a implementation algorithm, written in Python. This code does use `scikit-learn`, as it demonstrates building the model from scratch, but it uses libraries for efficiency and convenience in handling arrays and distances.
 
